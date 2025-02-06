@@ -4,7 +4,7 @@ def maxHR(age):
 
 
 # Ask user for age
-age=int(input('Enter your age: '))
+age=int(input('Enter your age: 18 '))
 
 # Print estimation of maximum heart rate based on age
-print(f'Your max heart rate is {maxHR(age)} bpm')
+print(f'Your max heart rate is {maxHR(90)} bpm')
